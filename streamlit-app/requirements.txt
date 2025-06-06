@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+sentence_transformers
+nltk
+re
+sklearn
